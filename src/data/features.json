@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Greenfield",
+        "description": "Building useful greenfield products for startups, SMBs and not-for-profits..",
+        "image": "/features/noun_branding_1885335.svg"
+    },
+    {
+        "title": "Growth",
+        "description": "Helping businesses scale their technical capabilities through the development and implemention of growth focused software.",
+        "image": "/features/noun_3d modeling_1885342.svg"
+    },
+    {
+        "title": "Retrofitting",
+        "description": "Applying modern technical solutions to applications old and new.",
+        "image": "/features/noun_The Process_1885341.svg"
+    }
+]

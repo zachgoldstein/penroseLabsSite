@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Penrose Labs',
+    description: 'Software Engineering',
     contact: {
-      phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+        phone: 'XXX XXX XXX',
+        email: 'zerostaticthemes@gmail.com',
     },
+
     menuLinks: [
       {
         name: 'Services',
